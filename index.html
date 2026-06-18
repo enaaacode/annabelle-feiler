@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<section class="gallery-container">
+  {% for post in site.data.gallery %}
+  <div class="gallery-item">
+    <div class="image-wrapper">
+      <a href="{{ post.img }}" class="gallery-image">
+        <img
+          src="https://fileshare.statt.cloud/public.php/dav/files{{ post.src }}"
+          alt="{{ post.title }}"
+        />
+      </a>
+      {% if post.title %}
+      <div class="overlay">{{ post.title }}</div>
+      {% endif %}
+    </div>
+    {% if post.description %}
+    <p>{{ post.description }}</p>
+    {% endif %}
+  </div>
+  {% endfor %}
+</section>
+
+<footer class="footer" style="margin-top: 1rem">
+  <p style="text-align: center">
+    &copy; {{ site.time | date: "%Y" }} Annabelle Feiler. All rights reserved.
+  </p>
+</footer>

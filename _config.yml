@@ -1,0 +1,6 @@
+title: Annabelle Feiler
+email: hello@annabelle-feiler.com
+description: Künstlerin aus Leipzig
+url: "https://annabelle-feiler.com/"
+plugins:
+  - jekyll-feed
