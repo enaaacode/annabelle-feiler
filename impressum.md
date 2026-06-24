@@ -37,3 +37,5 @@ kennzeichne ich das deutlich und achte auf die entsprechenden Rechte.
 Ich erhebe oder speichere keine personenbezogenen Daten.
 
 Die Website wird über GitHub Pages gehostet. Beim Aufruf der Seite kann GitHub bestimmte technische Informationen wie IP-Adresse oder Browsertyp in Server-Logs speichern. Weitere Informationen dazu findest du in der Datenschutzerklärung von GitHub. <a target="_blank" rel="noopener" href="https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement">Diese findest du hier (klick mich).</a>
+
+Zur reinen Besucherstatistik benutze ich GoatCounter. Das ist ein datenschutzfreundliches Open-Source-Tool. <a target="_blank" rel="noopener" href="https://www.goatcounter.com/">Erfahre hier mehr über GoatCounter.</a>
