@@ -9,6 +9,10 @@ Farin Urlaub singt in einem Song: _„Sie ist unscharf an den Rändern, man erke
 
 Und damit Hallo liebe alle. Mein Name ist Annabelle und ich hatte lange Zeit Hemmungen, mich Künstlerin zu nennen. Oder das was ich mache, als Kunst zu betiteln. Ich habe Design studiert, vor dem Studium eine Ausbildung zur Mediengestalterin gemacht und dann parallel zum Studium als Freelancerin gearbeitet. Dadurch habe ich Gestaltung sehr früh als Dienstleistung verstanden und gelernt Erwartungen zu erfüllen. Nun ist Schluss mit der eigenen Begrenzung. Gestatten: Annabelle Feiler, Künstlerin aus Leipzig.
 
+Ich arbeite mit Collagen, Illustration und Grafikdesign. Dabei entstehen sowohl freie künstlerische Arbeiten als auch Auftragsarbeiten. Mich interessiert die Verbindung von grafischen Strukturen, erzählerischen Elementen und experimentellen Bildwelten.
+
+Ob analog oder digital, ich freue mich immer über spannende Kooperationen und neue Projekte.
+
 Du willst mich kontaktieren? Schreib mir an [hello@annabelle-feiler.com](mailto:hello@annabelle-feiler.com)
 
 xoxo
