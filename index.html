@@ -7,10 +7,7 @@ layout: default
   <div class="gallery-item">
     <div class="image-wrapper">
       <a href="{{ post.img }}" class="gallery-image">
-        <img
-          src="https://fileshare.statt.cloud/public.php/dav/files{{ post.src }}"
-          alt="{{ post.title }}"
-        />
+        <img src="{{ post.img }}" alt="{{ post.title }}" />
       </a>
       {% if post.title %}
       <div class="overlay">{{ post.title }}</div>
