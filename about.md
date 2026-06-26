@@ -30,9 +30,6 @@ Freischaffende Künstlerin
 <small>10/2017 - heute</small><br>
 Selbstständige Kommunikationsdesignerin
 
-<small>02/2022 - 05/2023</small><br>
-Van Life und Freelancing
-
 ---
 
 <small>10/2017 - 02/2022</small><br>
