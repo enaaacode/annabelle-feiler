@@ -183,18 +183,6 @@ header {
   text-decoration: underline;
 }
 
-.main-nav .social-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.main-nav .social-link img {
-  width: 2rem;
-  height: auto;
-  display: block;
-}
-
 .mobile-nav,
 .menu-toggle {
   display: none;
@@ -215,19 +203,7 @@ header {
   right: 1rem;
 }
 
-.instagram {
-  display: none;
-}
-
 @media (max-width: 600px) {
-  .social-item {
-    display: none;
-  }
-
-  .instagram {
-    display: block;
-  }
-
   .image-wrapper:hover .overlay {
     opacity: 0;
   }
