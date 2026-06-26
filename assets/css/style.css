@@ -203,6 +203,10 @@ header {
 }
 
 @media (max-width: 600px) {
+  .image-wrapper:hover .overlay {
+    opacity: 0;
+  }
+
   .hamburger {
     display: block;
   }
