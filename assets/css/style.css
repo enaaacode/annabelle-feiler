@@ -215,7 +215,19 @@ header {
   right: 1rem;
 }
 
+.instagram {
+  display: none;
+}
+
 @media (max-width: 600px) {
+  .social-item {
+    display: none;
+  }
+
+  .instagram {
+    display: block;
+  }
+
   .image-wrapper:hover .overlay {
     opacity: 0;
   }
