@@ -234,6 +234,7 @@ header {
   .main-nav ul {
     flex-direction: column;
     gap: 1.5rem;
+    text-align: left;
   }
 
   .main-nav a {
