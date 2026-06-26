@@ -165,6 +165,7 @@ header {
   display: flex;
   flex-direction: row;
   gap: 1.5rem;
+  align-items: center;
 }
 
 .main-nav li {
@@ -180,6 +181,18 @@ header {
 .main-nav a:hover,
 .main-nav a:focus {
   text-decoration: underline;
+}
+
+.main-nav .social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-nav .social-link img {
+  width: 2rem;
+  height: auto;
+  display: block;
 }
 
 .mobile-nav,
