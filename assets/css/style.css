@@ -165,7 +165,6 @@ header {
   display: flex;
   flex-direction: row;
   gap: 1.5rem;
-  align-items: center;
 }
 
 .main-nav li {
