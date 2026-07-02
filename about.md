@@ -38,7 +38,4 @@ Bachelor of Arts, Studiengang Design, Technische Hochschule, Nürnberg
 <small>01/2015 - 02/2017</small><br>
 Ausbildung zur Mediengestalterin Digital und Print, petitio, Nürnberg
 
----
 
-Genug von den harten Fakten? 🙃  
-Hier erfährst du mehr über mich als Mensch: [sparks-of-joy.neocities.org](https://sparks-of-joy.neocities.org/)
